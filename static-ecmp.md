@@ -61,7 +61,7 @@ Dessa forma, os dois caminhos podem ser instalados na tabela de roteamento e uti
 
 ## Testes
 
-![Teste de traceroute](./images%20/static-ECMP%20/validation.png)
+![Teste de traceroute](./images/static-ECMP/ecmp-validation.png)
 
 ## Observação
 
