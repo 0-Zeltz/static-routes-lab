@@ -2,7 +2,7 @@
 
 ## Topologia
 
-![Topologia de roteamento conectado](images/connected-routing-topology.png)
+<img src=./images/connected-routing/1-router-topology.png" width="400">
 
 ## Endereçamento
 
@@ -28,6 +28,4 @@ As duas redes estão diretamente conectadas ao roteador e são adicionadas autom
 
 ### Ping
 
-![Teste de ping](images/connected-routing-ping.png)
-
-
+<img src=./images/connected-routing/validation.png" width="400">
