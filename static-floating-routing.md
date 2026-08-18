@@ -61,10 +61,6 @@ Administrative Distance é um valor numérico usado por roteadores para medir a 
 
 ### Falha do Roteador 3
 
-![Roteador 3 desligado](images/router3-down.png)
-
-### Rota secundária
-
-![Traceroute pela rota secundária](images/floating-backup-route.png)
+![Roteador 3 desligado](./images%20/floating-route/backup-route-validation-2.png)
 
 Como mostrado na imagem acima, o tráfego da rede continua fluindo mesmo com a rota principal indisponível.
