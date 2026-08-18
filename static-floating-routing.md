@@ -57,6 +57,8 @@ Com essa medida adicional, é possível definir uma rota preferencial no R1 e no
 
 ![Traceroute pela rota principal](./images%20/floating-route/ip-route-AD.png)
 
+Administrative Distance é um valor numérico usado por roteadores para medir a confiabilidade de uma fonte de rota. É possível configurar o AD de rotas por meio do CLI do roteador, enquanto em modo de configuração global.
+
 ### Falha do Roteador 3
 
 ![Roteador 3 desligado](images/router3-down.png)
