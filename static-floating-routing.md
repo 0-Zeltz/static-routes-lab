@@ -49,9 +49,9 @@ Com essa medida adicional, é possível definir uma rota preferencial no R1 e no
 
 ## Testes
 
-[Validação LAN1 -> LAN2](./images%20/floating-route/lan1-validation.png)
+![Validação LAN1 -> LAN2](./images%20/floating-route/lan1-validation.png)
 
-[Validação LAN2 -> LAN1](./images%20/floating-route/lan2-validation.png)
+![Validação LAN2 -> LAN1](./images%20/floating-route/lan2-validation.png)
 
 ### Rota principal
 
