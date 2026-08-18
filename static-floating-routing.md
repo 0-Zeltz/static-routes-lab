@@ -2,7 +2,7 @@
 
 ## Topologia
 
-![Topologia Floating Static Route](./images%20/floating-static-route-topology.png)
+![Topologia Floating Static Route](./images%20/floating-route/topology.png)
 
 ## Endereçamento
 
