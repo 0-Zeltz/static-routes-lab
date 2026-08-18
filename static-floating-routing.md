@@ -53,9 +53,9 @@ Com essa medida adicional, é possível definir uma rota preferencial no R1 e no
 
 ![Validação LAN2 -> LAN1](./images%20/floating-route/lan2-validation.png)
 
-### Rota principal
+### Adição de Administrative Distance às rotas
 
-![Traceroute pela rota principal](images/floating-primary-route.png)
+![Traceroute pela rota principal](./images%20/floating-route/ip-route-AD.png)
 
 ### Falha do Roteador 3
 
