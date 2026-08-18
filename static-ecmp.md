@@ -2,7 +2,7 @@
 
 ## Topologia
 
-![Topologia Static ECMP](./images/static-ecmp-img/EMCP-top.png)
+![Topologia Static ECMP](./images%20/static-ecmp-img/EMCP-top.png)
 
 ## Endereçamento
 
